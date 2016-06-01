@@ -1,0 +1,30 @@
+/* Empty. Add your own CSS if you like */
+
+
+/*
+.item.divider{
+	height: 4px
+
+}
+*/
+
+.list{
+	width: 320px;
+	height: 34px;
+}
+
+.button.button-assertive{
+	float: right;
+	margin-left: 170px;
+}
+
+.item.divider{
+	width: 320px;
+	height: 5px;
+	
+}
+
+.row{
+	width: 320 px;
+	height: 120px;
+}
